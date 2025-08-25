@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="페이지-1" id="SmW_AwVAWU78kg_NEIRn">
-    <mxGraphModel dx="3208" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4035" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NkLkqoC_KYj46b-fXLGR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NkLkqoC_KYj46b-fXLGR-1" target="NkLkqoC_KYj46b-fXLGR-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NkLkqoC_KYj46b-fXLGR-1" value="AF=af.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NkLkqoC_KYj46b-fXLGR-1" value="af.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="473" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NkLkqoC_KYj46b-fXLGR-2" value="AF=af.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkLkqoC_KYj46b-fXLGR-2" target="5HfsjVYCLDOKEPZBOpGv-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NkLkqoC_KYj46b-fXLGR-2" value="AF" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="393" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NkLkqoC_KYj46b-fXLGR-4" target="NkLkqoC_KYj46b-fXLGR-105" edge="1">
@@ -20,7 +20,7 @@
           <mxGeometry x="140" y="393" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-5" value="dm.p.af" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="393" width="80" height="20" as="geometry" />
+          <mxGeometry x="540" y="473" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-7" value="=" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="393" width="20" height="30" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="340" y="398" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-11" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="393" width="50" height="20" as="geometry" />
+          <mxGeometry x="630" y="473" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-12" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="-137" width="80" height="20" as="geometry" />
@@ -337,16 +337,241 @@
           <mxGeometry x="500" y="303" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-116" value="breed_name" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1440" y="-122" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1850" y="-112" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-117" value="stage_name" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1440" y="-92" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1850" y="-83" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-118" value="gender" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1440" y="-65" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1850" y="-55" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-119" value="age.month" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1440" y="-35" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1850" y="-26" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-1" value="full_bw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="3" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-2" value="preg.day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="31" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-3" value="milk.day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="60" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-4" value="ci.month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="89" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-5" value="calf_bw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="117" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-6" value="tca.month" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="146" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-7" value="mature_bw" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="175" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-8" value="bcs_beef" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="203.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-9" value="target_adg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="246" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-10" value="milk_yield" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="275" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-11" value="milk_fat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="304" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-12" value="milk_cp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="333" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-13" value="wind.kmh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="376" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-14" value="temp_past" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="405" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-15" value="humid_past" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="433" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-16" value="tem_cur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="462" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-17" value="humid-cur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="491" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-18" value="no_cooling_night" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="519" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-19" value="hair_length" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="548" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-20" value="mud_depth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="577" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-21" value="hide" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="605" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-22" value="hair_conditon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="634" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-23" value="panting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="663" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-24" value="radiation.hr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="691" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-25" value="area_head_code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="720" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-30" value="feed_name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="980" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-31" value="feed_class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1009" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-32" value="price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1039" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-33" value="conc.p" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1069" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-34" value="foreage.p" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1099" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-35" value="dm.p.af" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1128" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-36" value="om.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1158" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-37" value="nfc.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1188" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-38" value="ndf.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1217" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-59" value="ge.mcal.kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1623" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-60" value="me.mcal.kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1654" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-61" value="nem.mcal.kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1686" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-62" value="neg.macl.kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1717" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-63" value="nel.mcal.kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1749" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-64" value="adf.p" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1247" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-65" value="p_a.p.,hr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1860" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-66" value="lignin.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1277" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-67" value="cp.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1306" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-68" value="solp.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1336" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-69" value="ndicp.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1366" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-70" value="adicp.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1396" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-71" value="ee.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1425" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-72" value="ash.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1455" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-73" value="pndf.p.ndf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1544" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-74" value="tdn.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1591" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-91" value="starch.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1485" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-92" value="fa.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1514" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-94" value="ruplx.p.cp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1780" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-95" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;mso-fareast-font-family:함초롬바탕;mso-font-width:100%;letter-spacing:0pt;mso-text-raise:0pt;&quot; lang=&quot;EN-US&quot;&gt;snpn.p.cp&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;5408&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1812" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-96" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;mso-fareast-font-family:함초롬바탕;mso-font-width:100%;letter-spacing:0pt;mso-text-raise:0pt;&quot; lang=&quot;EN-US&quot;&gt;p_b1.p.hr&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;5408&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1890" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-97" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;mso-fareast-font-family:함초롬바탕;mso-font-width:100%;letter-spacing:0pt;mso-text-raise:0pt;&quot; lang=&quot;EN-US&quot;&gt;p_b2.p.hr&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;5408&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1920" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-98" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;mso-fareast-font-family:함초롬바탕;mso-font-width:100%;letter-spacing:0pt;mso-text-raise:0pt;&quot; lang=&quot;EN-US&quot;&gt;p_b3.p.hr&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;5408&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1950" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-100" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;mso-fareast-font-family:함초롬바탕;mso-font-width:100%;letter-spacing:0pt;mso-text-raise:0pt;&quot; lang=&quot;EN-US&quot;&gt;p_c.p.hr&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;5408&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1980" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-102" value="&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;184&quot; style=&quot;border-collapse:&amp;lt;br/&amp;gt; collapse;width:138pt&quot;&gt; &lt;colgroup&gt;&lt;col width=&quot;184&quot; style=&quot;mso-width-source:userset;mso-width-alt:5888;width:138pt&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; width=&quot;184&quot; style=&quot;height:16.5pt;width:138pt&quot;&gt;건유_70.5_14&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;비육_78_13.5&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;육성_68-16.5&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;육성_70-17&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_71-18&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_73.5-20&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_73-19&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_75-20&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_75-20.5&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_80-15&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;볏짚(CP 3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;볏짚(CP 5)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알티블루&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 건초(CP 15)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 건초(CP 17)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 건초(CP 21)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 펠렛&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;애뉴얼라이그래스(CP 5)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;애뉴얼라이그래스(CP 9)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;연맥 건초(CP 5)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;연맥 건초(CP 8)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 사일리지(CP 3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 사일리지(CP 9)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;청보리 사일리지&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;클라인 건초(CP 12)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;톨페스큐 건초(CP 10)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;톨페스큐 건초(CP 6)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;티모시 건초(CP 12)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;티모시 건초(CP 14)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;티모시 건초(CP 8)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소맥&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소맥분&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 후레이크&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;타피오카&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;현미&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;우지&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;보호지방&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;팜유&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;글리세린&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;당밀&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;전지면실&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;전지미강&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;CMS&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;DDGS&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;대두박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;루핀 후레이크&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;야자박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥글루텐밀&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;전지대두&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;채종박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;팜박(EE 3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;팜박(EE 7)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;맥주박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥배아박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;루핀&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;단백피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;대두피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;면실피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;비트펄프&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소맥피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 속대&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;화이버믹스&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;기타&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;물&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;미네랄 믹스&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;벤토나이트&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;비타민 믹스&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;산화마그네슘&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;산화아연&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;석회석&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소금&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;염화암모늄&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;염화칼륨&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;요소&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;인산칼슘(1)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;인산칼슘(2)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;인산칼슘(3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;중조&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;황산마그네슘&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;탄산칼슘&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="-1964" y="888" width="140" height="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-103" target="5HfsjVYCLDOKEPZBOpGv-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-103" value="FEED LIBRARY(FL)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1964" y="829" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-105" value="&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;184&quot; style=&quot;border-collapse:&amp;lt;br/&amp;gt; collapse;width:138pt&quot;&gt; &lt;colgroup&gt;&lt;col width=&quot;184&quot; style=&quot;mso-width-source:userset;mso-width-alt:5888;width:138pt&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; width=&quot;184&quot; style=&quot;height:16.5pt;width:138pt&quot;&gt;건유_70.5_14&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;비육_78_13.5&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;육성_68-16.5&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;육성_70-17&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_71-18&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_73.5-20&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_73-19&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_75-20&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_75-20.5&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_80-15&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;볏짚(CP 3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;볏짚(CP 5)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알티블루&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 건초(CP 15)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 건초(CP 17)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 건초(CP 21)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 펠렛&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;애뉴얼라이그래스(CP 5)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;애뉴얼라이그래스(CP 9)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;연맥 건초(CP 5)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;연맥 건초(CP 8)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 사일리지(CP 3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 사일리지(CP 9)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;청보리 사일리지&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;클라인 건초(CP 12)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;톨페스큐 건초(CP 10)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;톨페스큐 건초(CP 6)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;티모시 건초(CP 12)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;티모시 건초(CP 14)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;티모시 건초(CP 8)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소맥&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소맥분&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 후레이크&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;타피오카&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;현미&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;우지&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;보호지방&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;팜유&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;글리세린&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;당밀&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;전지면실&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;전지미강&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;CMS&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;DDGS&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;대두박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;루핀 후레이크&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;야자박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥글루텐밀&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;전지대두&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;채종박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;팜박(EE 3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;팜박(EE 7)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;맥주박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥배아박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;루핀&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;단백피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;대두피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;면실피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;비트펄프&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소맥피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 속대&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;화이버믹스&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;기타&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;물&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;미네랄 믹스&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;벤토나이트&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;비타민 믹스&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;산화마그네슘&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;산화아연&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;석회석&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소금&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;염화암모늄&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;염화칼륨&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;요소&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;인산칼슘(1)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;인산칼슘(2)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;인산칼슘(3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;중조&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;황산마그네슘&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;탄산칼슘&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#111111;" vertex="1" parent="1">
+          <mxGeometry x="-1794" y="888" width="140" height="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-107" target="5HfsjVYCLDOKEPZBOpGv-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-107" value="FEED PRICES(FP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1794" y="829" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-108" target="NkLkqoC_KYj46b-fXLGR-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-108" value="Input data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1880" y="-162" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-111" value="feed_data_rev" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-112" target="5HfsjVYCLDOKEPZBOpGv-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-112" value="dm.af" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="393" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-113" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="468" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-115" value="=" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="325" y="473" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-117" value="target_dmi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-210" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-118" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="-215" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-119" value="∑" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-210" width="43" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-121" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-210" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
