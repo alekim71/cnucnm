@@ -1,19 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="페이지-1" id="SmW_AwVAWU78kg_NEIRn">
-    <mxGraphModel dx="3907" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3907" dy="3089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NkLkqoC_KYj46b-fXLGR-1" value="af.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1237.5" y="1120" width="47.5" height="20" as="geometry" />
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-115" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;R로 넘겨주는 계산에서&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;착유_80-115 4kg의 의미와 중간 산입과정&lt;/div&gt;&lt;div&gt;건물배합비에 ckrdb_80-115포함 여부의 차이&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="430" width="740" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="2PLSoOHjRMfkNwMJFCkK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkLkqoC_KYj46b-fXLGR-2" target="5HfsjVYCLDOKEPZBOpGv-141">
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-141" target="NkLkqoC_KYj46b-fXLGR-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1281" y="990" />
-              <mxPoint x="-1532" y="990" />
+              <mxPoint x="-1281" y="816" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NkLkqoC_KYj46b-fXLGR-1" value="af.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1237.5" y="1120" width="47.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkLkqoC_KYj46b-fXLGR-2" target="5HfsjVYCLDOKEPZBOpGv-115">
           <mxGeometry relative="1" as="geometry" />
@@ -177,91 +179,91 @@
           <mxGeometry x="-1156.5" y="1352" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-116" value="breed_name" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="-112" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-2021" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-117" value="stage_name" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="-83" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1992" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-118" value="gender" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="-55" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1964" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-119" value="age.month" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="-26" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1935" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-1" value="full_bw" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="3" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1906" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-2" value="preg.day" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="31" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1878" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-3" value="milk.day" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="60" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1849" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-4" value="ci.month" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="89" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1820" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-5" value="calf_bw" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="117" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1792" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-6" value="tca.month" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="146" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1763" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-7" value="mature_bw" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="175" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1734" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-8" value="bcs_beef" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="203.5" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1705.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-9" value="target_adg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="246" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1663" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-10" value="milk_yield" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="275" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1634" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-11" value="milk_fat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="304" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1605" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-12" value="milk_cp" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="333" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1576" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-13" value="wind.kmh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="376" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1533" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-14" value="temp_past" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="405" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1504" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-15" value="humid_past" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="433" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1476" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-16" value="tem_cur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="462" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1447" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-17" value="humid-cur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="491" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1418" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-18" value="no_cooling_night" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="519" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1390" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-19" value="hair_length" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="548" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1361" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-20" value="mud_depth" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="577" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1332" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-21" value="hide" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="605" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1304" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-22" value="hair_conditon" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="634" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1275" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-23" value="panting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="663" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1246" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-24" value="radiation.hr" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="691" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1218" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-25" value="area_head_code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="720" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1898.5" y="-1189" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-102" value="&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;184&quot; style=&quot;border-collapse:&amp;lt;br/&amp;gt; collapse;width:138pt&quot;&gt; &lt;colgroup&gt;&lt;col width=&quot;184&quot; style=&quot;mso-width-source:userset;mso-width-alt:5888;width:138pt&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; width=&quot;184&quot; style=&quot;height:16.5pt;width:138pt&quot;&gt;건유_70.5_14&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;비육_78_13.5&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;육성_68-16.5&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;육성_70-17&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_71-18&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_73.5-20&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_73-19&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_75-20&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_75-20.5&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;착유_80-15&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;볏짚(CP 3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;볏짚(CP 5)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알티블루&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 건초(CP 15)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 건초(CP 17)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 건초(CP 21)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;알팔파 펠렛&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;애뉴얼라이그래스(CP 5)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;애뉴얼라이그래스(CP 9)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;연맥 건초(CP 5)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;연맥 건초(CP 8)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 사일리지(CP 3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 사일리지(CP 9)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;청보리 사일리지&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;클라인 건초(CP 12)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;톨페스큐 건초(CP 10)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;톨페스큐 건초(CP 6)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;티모시 건초(CP 12)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;티모시 건초(CP 14)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;티모시 건초(CP 8)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소맥&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소맥분&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 후레이크&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;타피오카&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;현미&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;우지&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;보호지방&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;팜유&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;글리세린&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;당밀&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;전지면실&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;전지미강&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;CMS&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;DDGS&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;대두박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;루핀 후레이크&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;야자박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥글루텐밀&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;전지대두&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;채종박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;팜박(EE 3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;팜박(EE 7)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;맥주박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥배아박&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;루핀&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;단백피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;대두피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;면실피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;비트펄프&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소맥피&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;옥수수 속대&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;화이버믹스&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;기타&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;물&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;미네랄 믹스&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;벤토나이트&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;비타민 믹스&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;산화마그네슘&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;산화아연&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;석회석&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;소금&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;염화암모늄&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;염화칼륨&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;요소&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;인산칼슘(1)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;인산칼슘(2)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;인산칼슘(3)&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;중조&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;황산마그네슘&lt;/td&gt; &lt;/tr&gt; &lt;tr height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;  &lt;td height=&quot;22&quot; style=&quot;height:16.5pt&quot;&gt;탄산칼슘&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#111111;" parent="1" vertex="1">
           <mxGeometry x="-1964" y="888" width="140" height="1810" as="geometry" />
@@ -274,20 +276,17 @@
             <mxPoint x="-1724" y="888" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2PLSoOHjRMfkNwMJFCkK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-103" target="5HfsjVYCLDOKEPZBOpGv-141">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-103" value="FEED LIBRARY(FL)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1964" y="800" width="314" height="31" as="geometry" />
+          <mxGeometry x="-1882.25" y="790" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" parent="1" source="5HfsjVYCLDOKEPZBOpGv-108" target="NkLkqoC_KYj46b-fXLGR-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-108" value="Input data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="-1880" y="-162" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1928.5" y="-2071" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-111" value="feed_data_rev" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1350" y="-50" width="120" height="60" as="geometry" />
+          <mxGeometry x="-969.87" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5HfsjVYCLDOKEPZBOpGv-112" target="5HfsjVYCLDOKEPZBOpGv-127" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -377,17 +376,23 @@
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-136" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1302.5" y="1681" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2PLSoOHjRMfkNwMJFCkK-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-141" target="5HfsjVYCLDOKEPZBOpGv-178">
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-141" target="5HfsjVYCLDOKEPZBOpGv-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-141" target="5HfsjVYCLDOKEPZBOpGv-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-141" target="2PLSoOHjRMfkNwMJFCkK-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-141" value="+ AF(실제 급여 원물량)&lt;div&gt;(원물 kg/cow/day)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-          <mxGeometry x="-1602.5" y="750" width="140" height="50" as="geometry" />
+          <mxGeometry x="-1697.5" y="790.5" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-178" value="feed_data&lt;div&gt;(원료별 입력표)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1351.5" y="755" width="140" height="40" as="geometry" />
+          <mxGeometry x="-2067" y="790" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-15" value="diet_nutrients(feed_data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1370" y="420" width="140" height="40.75" as="geometry" />
+          <mxGeometry x="-1235.12" y="-30" width="140" height="40.75" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-16" target="NkLkqoC_KYj46b-fXLGR-7">
           <mxGeometry relative="1" as="geometry" />
@@ -429,7 +434,7 @@
           <mxGeometry x="-1162.5" y="1316" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-32" value="diet_nutrients()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1380" y="254.25" width="140" height="40.75" as="geometry" />
+          <mxGeometry x="-979.87" y="-20" width="140" height="40.75" as="geometry" />
         </mxCell>
         <UserObject label="feed_no&#x9;feed_name&#x9;feed_class&#x9;price&#x9;conc.p&#x9;forage.p&#x9;dm.p.af&#x9;om.p.dm&#x9;cp.p.dm&#x9;solp.p.dm&#x9;ndicp.p.dm&#x9;adicp.p.dm&#x9;cf.p.dm&#x9;ndf.p.dm&#x9;adf.p.dm&#x9;lignin.p.dm&#x9;esc.p.dm&#x9;wsc.p.dm&#x9;starch.p.dm&#x9;ee.p.dm&#x9;ash.p.dm&#x9;ca.p.dm&#x9;p.p.dm&#x9;mg.p.dm&#x9;k.p.dm&#x9;s.p.dm&#x9;na.p.dm&#x9;cl.p.dm&#x9;fe.ppm.dm&#x9;mn.ppm.dm&#x9;zn.ppm.dm&#x9;cu.ppm.dm&#x9;tdn.p.dm&#x9;me.mcal.kg&#x9;nem.mcal.kg&#x9;neg.mcal.kg&#x9;nel.mcal.kg&#x9;nfc.p.dm&#x9;carb.p.dm&#x9;fa.p.dm&#x9;snpn.p.cp&#x9;rom.p.dm&#x9;ge.mcal.kg&#x9;dndf.lg.p.dm&#x9;dndf.lg.p.ndf&#x9;dndf.iv48.p.ndf&#x9;rup1x.p.cp&#x9;met.p.uip&#x9;lys.p.uip&#x9;arg.p.uip&#x9;thr.p.uip&#x9;leu.p.uip&#x9;ile.p.uip&#x9;val.p.uip&#x9;his.p.uip&#x9;phe.p.uip&#x9;trp.p.uip&#x9;npn.p.solp&#x9;co.ppm.dm&#x9;i.ppm.dm&#x9;se.ppm.dm&#x9;vit_a.1000iu.kg&#x9;vit_d.1000iu.kg&#x9;vit_e.iu.kg&#x9;pndf.p.ndf&#x9;cho_a.p.hr&#x9;cho_b1.p.hr&#x9;cho_b2.p.hr&#x9;cho_b3.p.hr&#x9;cho_c.p.hr&#x9;p_a.p.hr&#x9;p_b1.p.hr&#x9;p_b2.p.hr&#x9;p_b3.p.hr&#x9;p_c.p.hr&#x9;id_cho_a.p&#x9;id_cho_b1.p&#x9;id_cho_b2.p&#x9;id_cho_b3.p&#x9;id_cho_c.p&#x9;id_p_a.p&#x9;id_p_b1.p&#x9;id_p_b2.p&#x9;id_p_b3.p&#x9;id_p_c.p&#x9;id_ee.p&#x9;id_ash.p&#x9;ca_bio&#x9;p_bio&#x9;mg_bio&#x9;cl_bio&#x9;k_bio&#x9;na_bio&#x9;s_bio&#x9;co_bio&#x9;cu_bio&#x9;i_bio&#x9;fe_bio&#x9;mn_bio&#x9;se_bio&#x9;zn_bio&#x9;vit_a_bio&#x9;vit_d_bio&#x9;vit_e_bio&#x9;sugar.p.dm&#x9;lactic.p.dm&#x9;acetic.p.dm&#x9;propionic.p.dm&#x9;butyric.p.dm&#x9;isobutyric.p.dm&#x9;ph&#x9;ammonia.p.dm&#x9;solfiber.p.dm&#x9;OtherOAs.p.dm&#x9;glycerol.p.dm&#x9;pigment.p.dm&#x9;c12_0.p.fa&#x9;c14_0.p.fa&#x9;c16_0.p.fa&#x9;c16_1.p.fa&#x9;c18_0.p.fa&#x9;c18_1_trans.p.fa&#x9;c18_1_cis.p.fa&#x9;c18_2.p.fa&#x9;c18_3.p.fa&#x9;otherlipid.p.fa&#x9;Leucine.p.CP&#x9;Isoleucine.p.CP&#x9;Valine.p.CP&#x9;Monensin.ppm&#x9;Lasalocid_&#x9;Decoquinate_&#x9;Yeast_&#x9;Beta_Agonist_&#x9;Virginiamycin_&#x9;Aureomycin_&#x9;Chlortetracycline_&#x9;Oxytetracycline_&#x9;Salinomycin_&#x9;Zinc_Bacitracin_&#x9;Niacin_&#x9;Biotin_&#x9;Choline_&#x9;Chromium_&#x9;Organic_Chromium_&#x9;Organic_Zinc_&#x9;Organic_Copper_&#x9;Organic_Manganese_&#x9;Organic_Selenium_&#x9;Organic_Cobalt_&#x9;Enzymes_&#x9;Toxin_Binders_&#x9;Flavor_&#x9;cho_a1.p.hr&#x9;cho_a2.p.hr&#x9;cho_a3.p.hr&#x9;LipolysisRate_&#x9;AdjFactor_&#x9;id_cho_a1.p&#x9;id_cho_a2.p&#x9;id_cho_a3.p&#x9;id_c12_0.p&#x9;id_c14_0.p&#x9;id_c16_0.p&#x9;id_c16_1.p&#x9;id_c18_0.p&#x9;id_c18_1_trans.p&#x9;id_c18_1_cis.p&#x9;id_c18_2.p&#x9;id_c18_3.p&#x9;id_otherlipid.p&#x9;insitu_p_a.p.cp&#x9;insitu_p_b.p.cp&#x9;insitu_p_c.p.cp&#x9;dstarch.p.starch&#x9;drup.p.rup&#x9;insitu_p_b.p.hr&#x9;dfa.p.fa&#x9;inorg_p.p.p&#x9;org_p.p.p&#x9;cr.ppm.dm&#x9;mo.ppm.dm&#x9;bcarotene.ppm.dm&#x9;cys.p.uip&#x9;tyr.p.uip&#x9;OA_tot.p.dm" link="feed_no&#x9;feed_name&#x9;feed_class&#x9;price&#x9;conc.p&#x9;forage.p&#x9;dm.p.af&#x9;om.p.dm&#x9;cp.p.dm&#x9;solp.p.dm&#x9;ndicp.p.dm&#x9;adicp.p.dm&#x9;cf.p.dm&#x9;ndf.p.dm&#x9;adf.p.dm&#x9;lignin.p.dm&#x9;esc.p.dm&#x9;wsc.p.dm&#x9;starch.p.dm&#x9;ee.p.dm&#x9;ash.p.dm&#x9;ca.p.dm&#x9;p.p.dm&#x9;mg.p.dm&#x9;k.p.dm&#x9;s.p.dm&#x9;na.p.dm&#x9;cl.p.dm&#x9;fe.ppm.dm&#x9;mn.ppm.dm&#x9;zn.ppm.dm&#x9;cu.ppm.dm&#x9;tdn.p.dm&#x9;me.mcal.kg&#x9;nem.mcal.kg&#x9;neg.mcal.kg&#x9;nel.mcal.kg&#x9;nfc.p.dm&#x9;carb.p.dm&#x9;fa.p.dm&#x9;snpn.p.cp&#x9;rom.p.dm&#x9;ge.mcal.kg&#x9;dndf.lg.p.dm&#x9;dndf.lg.p.ndf&#x9;dndf.iv48.p.ndf&#x9;rup1x.p.cp&#x9;met.p.uip&#x9;lys.p.uip&#x9;arg.p.uip&#x9;thr.p.uip&#x9;leu.p.uip&#x9;ile.p.uip&#x9;val.p.uip&#x9;his.p.uip&#x9;phe.p.uip&#x9;trp.p.uip&#x9;npn.p.solp&#x9;co.ppm.dm&#x9;i.ppm.dm&#x9;se.ppm.dm&#x9;vit_a.1000iu.kg&#x9;vit_d.1000iu.kg&#x9;vit_e.iu.kg&#x9;pndf.p.ndf&#x9;cho_a.p.hr&#x9;cho_b1.p.hr&#x9;cho_b2.p.hr&#x9;cho_b3.p.hr&#x9;cho_c.p.hr&#x9;p_a.p.hr&#x9;p_b1.p.hr&#x9;p_b2.p.hr&#x9;p_b3.p.hr&#x9;p_c.p.hr&#x9;id_cho_a.p&#x9;id_cho_b1.p&#x9;id_cho_b2.p&#x9;id_cho_b3.p&#x9;id_cho_c.p&#x9;id_p_a.p&#x9;id_p_b1.p&#x9;id_p_b2.p&#x9;id_p_b3.p&#x9;id_p_c.p&#x9;id_ee.p&#x9;id_ash.p&#x9;ca_bio&#x9;p_bio&#x9;mg_bio&#x9;cl_bio&#x9;k_bio&#x9;na_bio&#x9;s_bio&#x9;co_bio&#x9;cu_bio&#x9;i_bio&#x9;fe_bio&#x9;mn_bio&#x9;se_bio&#x9;zn_bio&#x9;vit_a_bio&#x9;vit_d_bio&#x9;vit_e_bio&#x9;sugar.p.dm&#x9;lactic.p.dm&#x9;acetic.p.dm&#x9;propionic.p.dm&#x9;butyric.p.dm&#x9;isobutyric.p.dm&#x9;ph&#x9;ammonia.p.dm&#x9;solfiber.p.dm&#x9;OtherOAs.p.dm&#x9;glycerol.p.dm&#x9;pigment.p.dm&#x9;c12_0.p.fa&#x9;c14_0.p.fa&#x9;c16_0.p.fa&#x9;c16_1.p.fa&#x9;c18_0.p.fa&#x9;c18_1_trans.p.fa&#x9;c18_1_cis.p.fa&#x9;c18_2.p.fa&#x9;c18_3.p.fa&#x9;otherlipid.p.fa&#x9;Leucine.p.CP&#x9;Isoleucine.p.CP&#x9;Valine.p.CP&#x9;Monensin.ppm&#x9;Lasalocid_&#x9;Decoquinate_&#x9;Yeast_&#x9;Beta_Agonist_&#x9;Virginiamycin_&#x9;Aureomycin_&#x9;Chlortetracycline_&#x9;Oxytetracycline_&#x9;Salinomycin_&#x9;Zinc_Bacitracin_&#x9;Niacin_&#x9;Biotin_&#x9;Choline_&#x9;Chromium_&#x9;Organic_Chromium_&#x9;Organic_Zinc_&#x9;Organic_Copper_&#x9;Organic_Manganese_&#x9;Organic_Selenium_&#x9;Organic_Cobalt_&#x9;Enzymes_&#x9;Toxin_Binders_&#x9;Flavor_&#x9;cho_a1.p.hr&#x9;cho_a2.p.hr&#x9;cho_a3.p.hr&#x9;LipolysisRate_&#x9;AdjFactor_&#x9;id_cho_a1.p&#x9;id_cho_a2.p&#x9;id_cho_a3.p&#x9;id_c12_0.p&#x9;id_c14_0.p&#x9;id_c16_0.p&#x9;id_c16_1.p&#x9;id_c18_0.p&#x9;id_c18_1_trans.p&#x9;id_c18_1_cis.p&#x9;id_c18_2.p&#x9;id_c18_3.p&#x9;id_otherlipid.p&#x9;insitu_p_a.p.cp&#x9;insitu_p_b.p.cp&#x9;insitu_p_c.p.cp&#x9;dstarch.p.starch&#x9;drup.p.rup&#x9;insitu_p_b.p.hr&#x9;dfa.p.fa&#x9;inorg_p.p.p&#x9;org_p.p.p&#x9;cr.ppm.dm&#x9;mo.ppm.dm&#x9;bcarotene.ppm.dm&#x9;cys.p.uip&#x9;tyr.p.uip&#x9;OA_tot.p.dm" id="2PLSoOHjRMfkNwMJFCkK-35">
           <mxCell style="text;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
@@ -485,22 +490,280 @@
           <mxGeometry x="-1628.5" y="1074" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-73" value="PMR 원물 급여량" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="-1031.5" y="1130" width="130" height="20" as="geometry" />
+          <mxGeometry x="-1438" y="675" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2PLSoOHjRMfkNwMJFCkK-74" value="배합사료급여량" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="-1603.5" y="-460" width="130" height="20" as="geometry" />
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-74" target="2PLSoOHjRMfkNwMJFCkK-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1376" y="420" />
+              <mxPoint x="-1200" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2PLSoOHjRMfkNwMJFCkK-75" value="/배합사료급여량 합계" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1454" y="-460" width="130" height="20" as="geometry" />
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-74" value="X 사료급여량(kg 원물)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="-1441.5" y="390" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2PLSoOHjRMfkNwMJFCkK-76" value="사료 배합비(% 원물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1750" y="-460" width="112" height="20" as="geometry" />
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-75" value="/배합사료급여량(원물) 합계" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1308" y="390" width="165.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-76" target="2PLSoOHjRMfkNwMJFCkK-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1638" y="395" />
+              <mxPoint x="-1638" y="660" />
+              <mxPoint x="-1534" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-76" target="2PLSoOHjRMfkNwMJFCkK-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1547" y="340" />
+              <mxPoint x="-1123" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-76" value="X 사료 배합비(% 원물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1618" y="390" width="142" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-77" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1632.5" y="-465" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1470.5" y="385" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-78" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1315" y="-460" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1132" y="390" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-79" value="원료단가" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="-1879" y="431" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-80" value="X 사료급여량(kg 원물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1265" y="455" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-81" value="건물함량(dm.p.af?)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1105.5" y="455" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-82" target="2PLSoOHjRMfkNwMJFCkK-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-82" target="2PLSoOHjRMfkNwMJFCkK-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1650" y="465" />
+              <mxPoint x="-1650" y="220" />
+              <mxPoint x="-1536" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-82" value="X 사료급여량(건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1441.5" y="455" width="142" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-83" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1294" y="450" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-84" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-966.5" y="455" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-85" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=2.5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1128" y="460" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-87" value="X 사료급여량(kg 건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1435.5" y="515" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-88" value="/ ∑ 배합사료급여량(건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="515" width="147.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-89" value="X 사료 배합비(% 건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1612" y="515" width="142" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-90" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1464.5" y="510" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-91" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1137" y="515" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-980" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1710" y="521" />
+              <mxPoint x="-1710" y="320" />
+              <mxPoint x="-980" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-98" value="최소량(% 건물)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="-1879" y="511" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-99" target="2PLSoOHjRMfkNwMJFCkK-186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1680" y="543" />
+              <mxPoint x="-1680" y="630" />
+              <mxPoint x="-784" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-99" value="최대량(% 건물)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="-1879" y="538" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-100" value="배합량(kg 원물)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="-1879" y="565" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-105" value="X 사료 배합비(% 원물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1605" y="670" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-106" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1638" y="690" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-108" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=2.5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1458" y="680" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-109" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1302" y="675" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-116" value="feed_,input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1889" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-122" value="+" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=2.5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1721.5" y="810.5" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-125" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1915.25" y="800.5" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-127" value="FEED NAME" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1717.25" y="120" width="105.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-128" target="2PLSoOHjRMfkNwMJFCkK-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-128" value="DM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1449.5" y="120" width="105.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-129" target="2PLSoOHjRMfkNwMJFCkK-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-129" value="MIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1284.12" y="120" width="105.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-130" value="MAX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1094.12" y="120" width="105.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-133" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1740.5" y="125" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-136" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;원료이름&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1879" y="404" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-137" target="2PLSoOHjRMfkNwMJFCkK-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1729" y="468" />
+              <mxPoint x="-1729" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-137" target="2PLSoOHjRMfkNwMJFCkK-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1690" y="468" />
+              <mxPoint x="-1690" y="370" />
+              <mxPoint x="-1376" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-137" value="X 사료급여량(kg 원물)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="-1879" y="458" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-138" target="2PLSoOHjRMfkNwMJFCkK-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1650" y="494" />
+              <mxPoint x="-1650" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-138" value="X 사료급여량(건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1879" y="484" width="128.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-140" value="착유_80-115 4kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1605.25" y="720" width="145.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-141" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" vertex="1" parent="1">
+          <mxGeometry x="-1545.5" y="705" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-148" target="2PLSoOHjRMfkNwMJFCkK-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-148" value="X 사료급여량(건물)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1606.75" y="90" width="142" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-149" value="X 사료급여량(건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1494" y="230" width="114" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-150" value="∑" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" vertex="1" parent="1">
+          <mxGeometry x="-1522.5" y="230" width="32.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-152" value="합계급여량(건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1640.5" y="230" width="88" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-154" value="X 사료급여량(건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1383.12" y="285" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-155" value="/합계급여량(건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1268.12" y="285" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-156" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1153.12" y="285" width="43.12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-157" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1406.62" y="280" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-163" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="245" width="37.37" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-164" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1241" y="240" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-165" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1545.75" y="225" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-166" value="&amp;nbsp;X 사료 배합비(% 건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1191.5" y="245" width="137.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-167" value="∑" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=5;" vertex="1" parent="1">
+          <mxGeometry x="-1213" y="245" width="32.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-169" value="&amp;nbsp;최소량(%건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1046.25" y="245" width="137.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-172" value="/&amp;nbsp; ∑급여량(kg, 건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-849.87" y="245" width="109.87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-173" value="x100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-734" y="245" width="37.37" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-182" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-706.5" y="200" width="37.37" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-183" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1047.5" y="195" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-184" value="&amp;nbsp;X 사료 배합비(% 건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-998" y="200" width="137.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-185" value="∑" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=5;" vertex="1" parent="1">
+          <mxGeometry x="-1019.5" y="200" width="32.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-186" value="최대량(%건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-852.75" y="200" width="137.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-147" value="착유_80-115 4kg 포함" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1599.12" y="130" width="126.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-193" value="/&amp;nbsp; ∑급여량(kg, 건물)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="200" width="109.87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-194" value="x100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-544.13" y="200" width="37.37" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
