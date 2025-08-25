@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="페이지-1" id="SmW_AwVAWU78kg_NEIRn">
-    <mxGraphModel dx="3907" dy="3089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3907" dy="4258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,168 +15,168 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-1" value="af.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1237.5" y="1120" width="47.5" height="20" as="geometry" />
+          <mxGeometry x="-1236.5" y="1298" width="47.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkLkqoC_KYj46b-fXLGR-2" target="5HfsjVYCLDOKEPZBOpGv-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-2" value="AF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-          <mxGeometry x="-1321.5" y="1079" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1320.5" y="1257" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-5" value="dm.p.af" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1081.5" y="1005" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1080.5" y="1183" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-7" value="=" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1351.5" y="1079" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1350.5" y="1257" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-10" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" parent="1" vertex="1">
-          <mxGeometry x="-1241.5" y="1084" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1240.5" y="1262" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-11" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-991.5" y="1005" width="50" height="20" as="geometry" />
+          <mxGeometry x="-990.5" y="1183" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-12" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1508.5" y="1269.5" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1507.5" y="1447.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-13" value="forage.p" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1408.5" y="1269.5" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1407.5" y="1447.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-14" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1428.5" y="1274.5" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1427.5" y="1452.5" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-15" value="/100" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1318.5" y="1269.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1317.5" y="1447.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-16" value="forage.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1628.5" y="1269.5" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1627.5" y="1447.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-17" value="=" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1538.5" y="1264.5" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1537.5" y="1442.5" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-18" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1508.5" y="1193" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1507.5" y="1371" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-19" value="om.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1408.5" y="1193" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1407.5" y="1371" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-20" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" parent="1" vertex="1">
-          <mxGeometry x="-1428.5" y="1198" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1427.5" y="1376" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-21" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1318.5" y="1193" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1317.5" y="1371" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-22" value="om.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1628.5" y="1193" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1627.5" y="1371" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-23" value="=" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1538.5" y="1188" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1537.5" y="1366" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-30" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1508.5" y="1223" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1507.5" y="1401" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkLkqoC_KYj46b-fXLGR-31" target="NkLkqoC_KYj46b-fXLGR-111">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1368.5" y="1261" />
-              <mxPoint x="-1202.5" y="1261" />
+              <mxPoint x="-1367.5" y="1439" />
+              <mxPoint x="-1201.5" y="1439" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkLkqoC_KYj46b-fXLGR-31" target="2PLSoOHjRMfkNwMJFCkK-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1368.5" y="1261" />
-              <mxPoint x="-1097.5" y="1261" />
+              <mxPoint x="-1367.5" y="1439" />
+              <mxPoint x="-1096.5" y="1439" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-31" value="ndf.p.dm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1408.5" y="1223" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1407.5" y="1401" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-32" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" parent="1" vertex="1">
-          <mxGeometry x="-1428.5" y="1228" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1427.5" y="1406" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-33" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1318.5" y="1223" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1317.5" y="1401" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-34" value="ndf.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1628.5" y="1223" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1627.5" y="1401" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-35" value="=" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1538.5" y="1218" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1537.5" y="1396" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-38" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1508.5" y="1297" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1507.5" y="1475" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="NkLkqoC_KYj46b-fXLGR-39" target="2PLSoOHjRMfkNwMJFCkK-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1368.5" y="1331" />
+              <mxPoint x="-1367.5" y="1509" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-39" value="f_ndf.p.dm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1408.5" y="1297" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1407.5" y="1475" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-40" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1428.5" y="1302" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1427.5" y="1480" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-41" value="/100" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1318.5" y="1297" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1317.5" y="1475" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-42" value="f_ndf.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1628.5" y="1297" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1627.5" y="1475" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-43" value="=" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1538.5" y="1295" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1537.5" y="1473" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-49" value="=" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="-42" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-99" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1512.5" y="1352" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1511.5" y="1530" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-100" value="pndf.p.ndf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1412.5" y="1352" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1411.5" y="1530" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-101" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1432.5" y="1357" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1431.5" y="1535" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-102" value="/100" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1322.5" y="1352" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1321.5" y="1530" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-103" value="pndf.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1632.5" y="1352" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1631.5" y="1530" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-104" value="=" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1542.5" y="1347" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1541.5" y="1525" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-105" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1512.5" y="1383" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1511.5" y="1561" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-106" value="tdn.p.dm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1412.5" y="1383" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1411.5" y="1561" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-107" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=2.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1432.5" y="1388" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1431.5" y="1566" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-108" value="/100" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1322.5" y="1383" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1321.5" y="1561" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-109" value="dn.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1632.5" y="1383" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1631.5" y="1561" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-110" value="=" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1542.5" y="1381" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1541.5" y="1559" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-111" value="ndf.p.dm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1246.5" y="1352" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1245.5" y="1530" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-112" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1266.5" y="1357" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1265.5" y="1535" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-113" value="/100" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1156.5" y="1352" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1155.5" y="1530" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NkLkqoC_KYj46b-fXLGR-116" value="breed_name" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="-1898.5" y="-2021" width="80" height="20" as="geometry" />
@@ -286,13 +286,13 @@
           <mxGeometry x="-1928.5" y="-2071" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-111" value="feed_data_rev" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-969.87" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1605.25" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5HfsjVYCLDOKEPZBOpGv-112" target="5HfsjVYCLDOKEPZBOpGv-127" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1171" y="1591" />
-              <mxPoint x="-1252" y="1591" />
+              <mxPoint x="-1170" y="1769" />
+              <mxPoint x="-1251" y="1769" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -301,80 +301,80 @@
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1168.5" y="1099" as="sourcePoint" />
-            <mxPoint x="-1172.5" y="1681" as="targetPoint" />
+            <mxPoint x="-1167.5" y="1277" as="sourcePoint" />
+            <mxPoint x="-1171.5" y="1859" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1168" y="1100" />
-              <mxPoint x="-1172" y="1100" />
-              <mxPoint x="-1172" y="1391" />
+              <mxPoint x="-1167" y="1278" />
+              <mxPoint x="-1171" y="1278" />
+              <mxPoint x="-1171" y="1569" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-112" value="dm.af" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1211.5" y="1079" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1210.5" y="1257" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-113" value="=" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1106.5" y="1000" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1105.5" y="1178" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-115" value="=" style="rhombus;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-1267.5" y="1120" width="30" height="20" as="geometry" />
+          <mxGeometry x="-1266.5" y="1298" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="5HfsjVYCLDOKEPZBOpGv-117" target="5HfsjVYCLDOKEPZBOpGv-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-117" value="target_dmi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1382.5" y="1816" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1381.5" y="1994" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-118" value="=" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1298.5" y="1811" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1297.5" y="1989" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-119" value="∑" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" parent="1" vertex="1">
-          <mxGeometry x="-1272.5" y="1816" width="43" height="20" as="geometry" />
+          <mxGeometry x="-1271.5" y="1994" width="43" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-121" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1222.5" y="1816" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1221.5" y="1994" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-122" value="DMI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1505.5" y="1631" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1504.5" y="1809" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-123" value="AF_i" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1625.5" y="1631" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1624.5" y="1809" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-124" value="=" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1535.5" y="1631" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1534.5" y="1809" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-125" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" parent="1" vertex="1">
-          <mxGeometry x="-1425.5" y="1636" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1424.5" y="1814" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-126" value="DM(%)(i)/100" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1395.5" y="1631" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1394.5" y="1809" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-127" value="dm.af" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1292.5" y="1631" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1291.5" y="1809" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-128" value="/" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=2.5;" parent="1" vertex="1">
-          <mxGeometry x="-1312.5" y="1631" width="20" height="17" as="geometry" />
+          <mxGeometry x="-1311.5" y="1809" width="20" height="17" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-130" value="target_dmi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1504" y="1681" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1503" y="1859" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-131" value="=" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1534" y="1681" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1533" y="1859" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-132" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" parent="1" vertex="1">
-          <mxGeometry x="-1424" y="1686" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1423" y="1864" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-133" value="optimal_DM(i)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1394" y="1681" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1393" y="1859" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-134" value="dm.af" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1215.5" y="1681" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1214.5" y="1859" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-135" value="/" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=2.5;" parent="1" vertex="1">
-          <mxGeometry x="-1242.5" y="1681" width="20" height="17" as="geometry" />
+          <mxGeometry x="-1241.5" y="1859" width="20" height="17" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-136" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1302.5" y="1681" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1301.5" y="1859" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-141" target="5HfsjVYCLDOKEPZBOpGv-103">
           <mxGeometry relative="1" as="geometry" />
@@ -385,109 +385,109 @@
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5HfsjVYCLDOKEPZBOpGv-141" target="2PLSoOHjRMfkNwMJFCkK-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5HfsjVYCLDOKEPZBOpGv-141" value="+ AF(실제 급여 원물량)&lt;div&gt;(원물 kg/cow/day)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+        <mxCell id="5HfsjVYCLDOKEPZBOpGv-141" value="+ AF(실제 급여 원물량)&lt;div&gt;(원물 kg/cow/day)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="-1697.5" y="790.5" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5HfsjVYCLDOKEPZBOpGv-178" value="feed_data&lt;div&gt;(원료별 입력표)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2067" y="790" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-15" value="diet_nutrients(feed_data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1235.12" y="-30" width="140" height="40.75" as="geometry" />
+          <mxGeometry x="-1837.5" y="-260" width="140" height="40.75" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-16" target="NkLkqoC_KYj46b-fXLGR-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-16" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1508.5" y="1164" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1507.5" y="1342" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-17" value="X.p.dm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1408.5" y="1164" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1407.5" y="1342" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-18" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=2.5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1428.5" y="1169" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1427.5" y="1347" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-19" value="/100" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1318.5" y="1164" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1317.5" y="1342" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-20" target="2PLSoOHjRMfkNwMJFCkK-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-20" value="X.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1628.5" y="1164" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1627.5" y="1342" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-21" value="=" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1538.5" y="1160" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1537.5" y="1338" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-22" value="ndf.p.dm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1137.5" y="1321" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1136.5" y="1499" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-25" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1047.5" y="1325" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1046.5" y="1503" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-27" value="forage.p" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1017.5" y="1321" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1016.5" y="1499" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-29" value="/100" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-927.5" y="1322" width="50" height="20" as="geometry" />
+          <mxGeometry x="-926.5" y="1500" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-30" value="=" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1162.5" y="1316" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1161.5" y="1494" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-32" value="diet_nutrients()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-979.87" y="-20" width="140" height="40.75" as="geometry" />
+          <mxGeometry x="-1427.5" y="-300.75" width="140" height="40.75" as="geometry" />
         </mxCell>
         <UserObject label="feed_no&#x9;feed_name&#x9;feed_class&#x9;price&#x9;conc.p&#x9;forage.p&#x9;dm.p.af&#x9;om.p.dm&#x9;cp.p.dm&#x9;solp.p.dm&#x9;ndicp.p.dm&#x9;adicp.p.dm&#x9;cf.p.dm&#x9;ndf.p.dm&#x9;adf.p.dm&#x9;lignin.p.dm&#x9;esc.p.dm&#x9;wsc.p.dm&#x9;starch.p.dm&#x9;ee.p.dm&#x9;ash.p.dm&#x9;ca.p.dm&#x9;p.p.dm&#x9;mg.p.dm&#x9;k.p.dm&#x9;s.p.dm&#x9;na.p.dm&#x9;cl.p.dm&#x9;fe.ppm.dm&#x9;mn.ppm.dm&#x9;zn.ppm.dm&#x9;cu.ppm.dm&#x9;tdn.p.dm&#x9;me.mcal.kg&#x9;nem.mcal.kg&#x9;neg.mcal.kg&#x9;nel.mcal.kg&#x9;nfc.p.dm&#x9;carb.p.dm&#x9;fa.p.dm&#x9;snpn.p.cp&#x9;rom.p.dm&#x9;ge.mcal.kg&#x9;dndf.lg.p.dm&#x9;dndf.lg.p.ndf&#x9;dndf.iv48.p.ndf&#x9;rup1x.p.cp&#x9;met.p.uip&#x9;lys.p.uip&#x9;arg.p.uip&#x9;thr.p.uip&#x9;leu.p.uip&#x9;ile.p.uip&#x9;val.p.uip&#x9;his.p.uip&#x9;phe.p.uip&#x9;trp.p.uip&#x9;npn.p.solp&#x9;co.ppm.dm&#x9;i.ppm.dm&#x9;se.ppm.dm&#x9;vit_a.1000iu.kg&#x9;vit_d.1000iu.kg&#x9;vit_e.iu.kg&#x9;pndf.p.ndf&#x9;cho_a.p.hr&#x9;cho_b1.p.hr&#x9;cho_b2.p.hr&#x9;cho_b3.p.hr&#x9;cho_c.p.hr&#x9;p_a.p.hr&#x9;p_b1.p.hr&#x9;p_b2.p.hr&#x9;p_b3.p.hr&#x9;p_c.p.hr&#x9;id_cho_a.p&#x9;id_cho_b1.p&#x9;id_cho_b2.p&#x9;id_cho_b3.p&#x9;id_cho_c.p&#x9;id_p_a.p&#x9;id_p_b1.p&#x9;id_p_b2.p&#x9;id_p_b3.p&#x9;id_p_c.p&#x9;id_ee.p&#x9;id_ash.p&#x9;ca_bio&#x9;p_bio&#x9;mg_bio&#x9;cl_bio&#x9;k_bio&#x9;na_bio&#x9;s_bio&#x9;co_bio&#x9;cu_bio&#x9;i_bio&#x9;fe_bio&#x9;mn_bio&#x9;se_bio&#x9;zn_bio&#x9;vit_a_bio&#x9;vit_d_bio&#x9;vit_e_bio&#x9;sugar.p.dm&#x9;lactic.p.dm&#x9;acetic.p.dm&#x9;propionic.p.dm&#x9;butyric.p.dm&#x9;isobutyric.p.dm&#x9;ph&#x9;ammonia.p.dm&#x9;solfiber.p.dm&#x9;OtherOAs.p.dm&#x9;glycerol.p.dm&#x9;pigment.p.dm&#x9;c12_0.p.fa&#x9;c14_0.p.fa&#x9;c16_0.p.fa&#x9;c16_1.p.fa&#x9;c18_0.p.fa&#x9;c18_1_trans.p.fa&#x9;c18_1_cis.p.fa&#x9;c18_2.p.fa&#x9;c18_3.p.fa&#x9;otherlipid.p.fa&#x9;Leucine.p.CP&#x9;Isoleucine.p.CP&#x9;Valine.p.CP&#x9;Monensin.ppm&#x9;Lasalocid_&#x9;Decoquinate_&#x9;Yeast_&#x9;Beta_Agonist_&#x9;Virginiamycin_&#x9;Aureomycin_&#x9;Chlortetracycline_&#x9;Oxytetracycline_&#x9;Salinomycin_&#x9;Zinc_Bacitracin_&#x9;Niacin_&#x9;Biotin_&#x9;Choline_&#x9;Chromium_&#x9;Organic_Chromium_&#x9;Organic_Zinc_&#x9;Organic_Copper_&#x9;Organic_Manganese_&#x9;Organic_Selenium_&#x9;Organic_Cobalt_&#x9;Enzymes_&#x9;Toxin_Binders_&#x9;Flavor_&#x9;cho_a1.p.hr&#x9;cho_a2.p.hr&#x9;cho_a3.p.hr&#x9;LipolysisRate_&#x9;AdjFactor_&#x9;id_cho_a1.p&#x9;id_cho_a2.p&#x9;id_cho_a3.p&#x9;id_c12_0.p&#x9;id_c14_0.p&#x9;id_c16_0.p&#x9;id_c16_1.p&#x9;id_c18_0.p&#x9;id_c18_1_trans.p&#x9;id_c18_1_cis.p&#x9;id_c18_2.p&#x9;id_c18_3.p&#x9;id_otherlipid.p&#x9;insitu_p_a.p.cp&#x9;insitu_p_b.p.cp&#x9;insitu_p_c.p.cp&#x9;dstarch.p.starch&#x9;drup.p.rup&#x9;insitu_p_b.p.hr&#x9;dfa.p.fa&#x9;inorg_p.p.p&#x9;org_p.p.p&#x9;cr.ppm.dm&#x9;mo.ppm.dm&#x9;bcarotene.ppm.dm&#x9;cys.p.uip&#x9;tyr.p.uip&#x9;OA_tot.p.dm" link="feed_no&#x9;feed_name&#x9;feed_class&#x9;price&#x9;conc.p&#x9;forage.p&#x9;dm.p.af&#x9;om.p.dm&#x9;cp.p.dm&#x9;solp.p.dm&#x9;ndicp.p.dm&#x9;adicp.p.dm&#x9;cf.p.dm&#x9;ndf.p.dm&#x9;adf.p.dm&#x9;lignin.p.dm&#x9;esc.p.dm&#x9;wsc.p.dm&#x9;starch.p.dm&#x9;ee.p.dm&#x9;ash.p.dm&#x9;ca.p.dm&#x9;p.p.dm&#x9;mg.p.dm&#x9;k.p.dm&#x9;s.p.dm&#x9;na.p.dm&#x9;cl.p.dm&#x9;fe.ppm.dm&#x9;mn.ppm.dm&#x9;zn.ppm.dm&#x9;cu.ppm.dm&#x9;tdn.p.dm&#x9;me.mcal.kg&#x9;nem.mcal.kg&#x9;neg.mcal.kg&#x9;nel.mcal.kg&#x9;nfc.p.dm&#x9;carb.p.dm&#x9;fa.p.dm&#x9;snpn.p.cp&#x9;rom.p.dm&#x9;ge.mcal.kg&#x9;dndf.lg.p.dm&#x9;dndf.lg.p.ndf&#x9;dndf.iv48.p.ndf&#x9;rup1x.p.cp&#x9;met.p.uip&#x9;lys.p.uip&#x9;arg.p.uip&#x9;thr.p.uip&#x9;leu.p.uip&#x9;ile.p.uip&#x9;val.p.uip&#x9;his.p.uip&#x9;phe.p.uip&#x9;trp.p.uip&#x9;npn.p.solp&#x9;co.ppm.dm&#x9;i.ppm.dm&#x9;se.ppm.dm&#x9;vit_a.1000iu.kg&#x9;vit_d.1000iu.kg&#x9;vit_e.iu.kg&#x9;pndf.p.ndf&#x9;cho_a.p.hr&#x9;cho_b1.p.hr&#x9;cho_b2.p.hr&#x9;cho_b3.p.hr&#x9;cho_c.p.hr&#x9;p_a.p.hr&#x9;p_b1.p.hr&#x9;p_b2.p.hr&#x9;p_b3.p.hr&#x9;p_c.p.hr&#x9;id_cho_a.p&#x9;id_cho_b1.p&#x9;id_cho_b2.p&#x9;id_cho_b3.p&#x9;id_cho_c.p&#x9;id_p_a.p&#x9;id_p_b1.p&#x9;id_p_b2.p&#x9;id_p_b3.p&#x9;id_p_c.p&#x9;id_ee.p&#x9;id_ash.p&#x9;ca_bio&#x9;p_bio&#x9;mg_bio&#x9;cl_bio&#x9;k_bio&#x9;na_bio&#x9;s_bio&#x9;co_bio&#x9;cu_bio&#x9;i_bio&#x9;fe_bio&#x9;mn_bio&#x9;se_bio&#x9;zn_bio&#x9;vit_a_bio&#x9;vit_d_bio&#x9;vit_e_bio&#x9;sugar.p.dm&#x9;lactic.p.dm&#x9;acetic.p.dm&#x9;propionic.p.dm&#x9;butyric.p.dm&#x9;isobutyric.p.dm&#x9;ph&#x9;ammonia.p.dm&#x9;solfiber.p.dm&#x9;OtherOAs.p.dm&#x9;glycerol.p.dm&#x9;pigment.p.dm&#x9;c12_0.p.fa&#x9;c14_0.p.fa&#x9;c16_0.p.fa&#x9;c16_1.p.fa&#x9;c18_0.p.fa&#x9;c18_1_trans.p.fa&#x9;c18_1_cis.p.fa&#x9;c18_2.p.fa&#x9;c18_3.p.fa&#x9;otherlipid.p.fa&#x9;Leucine.p.CP&#x9;Isoleucine.p.CP&#x9;Valine.p.CP&#x9;Monensin.ppm&#x9;Lasalocid_&#x9;Decoquinate_&#x9;Yeast_&#x9;Beta_Agonist_&#x9;Virginiamycin_&#x9;Aureomycin_&#x9;Chlortetracycline_&#x9;Oxytetracycline_&#x9;Salinomycin_&#x9;Zinc_Bacitracin_&#x9;Niacin_&#x9;Biotin_&#x9;Choline_&#x9;Chromium_&#x9;Organic_Chromium_&#x9;Organic_Zinc_&#x9;Organic_Copper_&#x9;Organic_Manganese_&#x9;Organic_Selenium_&#x9;Organic_Cobalt_&#x9;Enzymes_&#x9;Toxin_Binders_&#x9;Flavor_&#x9;cho_a1.p.hr&#x9;cho_a2.p.hr&#x9;cho_a3.p.hr&#x9;LipolysisRate_&#x9;AdjFactor_&#x9;id_cho_a1.p&#x9;id_cho_a2.p&#x9;id_cho_a3.p&#x9;id_c12_0.p&#x9;id_c14_0.p&#x9;id_c16_0.p&#x9;id_c16_1.p&#x9;id_c18_0.p&#x9;id_c18_1_trans.p&#x9;id_c18_1_cis.p&#x9;id_c18_2.p&#x9;id_c18_3.p&#x9;id_otherlipid.p&#x9;insitu_p_a.p.cp&#x9;insitu_p_b.p.cp&#x9;insitu_p_c.p.cp&#x9;dstarch.p.starch&#x9;drup.p.rup&#x9;insitu_p_b.p.hr&#x9;dfa.p.fa&#x9;inorg_p.p.p&#x9;org_p.p.p&#x9;cr.ppm.dm&#x9;mo.ppm.dm&#x9;bcarotene.ppm.dm&#x9;cys.p.uip&#x9;tyr.p.uip&#x9;OA_tot.p.dm" id="2PLSoOHjRMfkNwMJFCkK-35">
           <mxCell style="text;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-            <mxGeometry x="-1740" y="900" width="11470" height="40" as="geometry" />
+            <mxGeometry x="-1740" y="900" width="860" height="220" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-41" value="규칙" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1702.5" y="1165" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1701.5" y="1343" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-42" value="예외" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1702.5" y="1269.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1701.5" y="1447.5" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2PLSoOHjRMfkNwMJFCkK-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.031;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-35">
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.605;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1080" y="1140" as="sourcePoint" />
-            <mxPoint x="-1384" y="1150" as="targetPoint" />
+            <mxPoint x="-1712.3400000000001" y="1243" as="sourcePoint" />
+            <mxPoint x="-1383" y="1328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-45" value="dm.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1512.5" y="1411" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1511.5" y="1589" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-46" value="s.p.dm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1412.5" y="1411" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1411.5" y="1589" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-47" value="×" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=2.5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1432.5" y="1416" width="20" height="10" as="geometry" />
+          <mxGeometry x="-1431.5" y="1594" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-48" value="/100" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1322.5" y="1411" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1321.5" y="1589" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-49" value="sulfer.kg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1632.5" y="1411" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1631.5" y="1589" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2PLSoOHjRMfkNwMJFCkK-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.027;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.606;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-35" target="NkLkqoC_KYj46b-fXLGR-5">
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.36;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.606;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2PLSoOHjRMfkNwMJFCkK-35" target="NkLkqoC_KYj46b-fXLGR-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1210" y="1000" as="sourcePoint" />
-            <mxPoint x="-1030" y="990" as="targetPoint" />
+            <mxPoint x="-1715.7800000000002" y="1243" as="sourcePoint" />
+            <mxPoint x="-1029" y="1168" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1083" y="970" />
+              <mxPoint x="-1082" y="1148" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-67" value="nutrents_sum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1788.5" y="1074" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1788.5" y="1257" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-68" value="=" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1704.5" y="1069" width="20" height="30" as="geometry" />
+          <mxGeometry x="-1703.5" y="1247" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-69" value="∑" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" vertex="1" parent="1">
-          <mxGeometry x="-1678.5" y="1074" width="43" height="20" as="geometry" />
+          <mxGeometry x="-1677.5" y="1252" width="43" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-70" value="X.kg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1628.5" y="1074" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1627.5" y="1252" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-73" value="PMR 원물 급여량" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="-1438" y="675" width="130" height="20" as="geometry" />
@@ -620,7 +620,7 @@
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-109" value="/100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1302" y="675" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2PLSoOHjRMfkNwMJFCkK-116" value="feed_,input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-116" value="feed_,input" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-1889" y="120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-122" value="+" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=2.5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -764,6 +764,36 @@
         </mxCell>
         <mxCell id="2PLSoOHjRMfkNwMJFCkK-194" value="x100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-544.13" y="200" width="37.37" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-196" value="DB 형 데이터(라이브러리, 상수 등)은 DB에 두고&amp;nbsp;&lt;div&gt;앱에서 입력한 값과, DB와 연계하여&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;계산을 하는 것 부터는 앱으로 하면 되지 않나?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-2180" y="200" width="334.5" height="180" as="geometry" />
+        </mxCell>
+        <UserObject label="1. 변환 계수 (Coefficients)&lt;br/&gt;&lt;br&gt;체중, 단백질, 에너지 변환에 사용되는 고정 계수값들&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;체중 변환 계수&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;상수명&#x9;값&#x9;설명&#x9;사용처&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;q_FBW_SBW&#x9;0.96&#x9;실제체중 → 표준체중 변환계수&#x9;체중 변환 계산&lt;br/&gt;&lt;br&gt;q_SBW_EBW&#x9;0.891&#x9;표준체중 → 빈체중 변환계수&#x9;체중 변환 계산&lt;br/&gt;&lt;br&gt;q_ADG_SWG&#x9;1&#x9;일평균증체량 → 표준체중증체량&#x9;성장 계산&lt;br/&gt;&lt;br&gt;q_SWG_EWG&#x9;0.956&#x9;표준체중증체량 → 빈체중증체량&#x9;성장 계산&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;단백질 변환 계수&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;상수명&#x9;값&#x9;설명&#x9;사용처&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;q_MCP_MP&#x9;0.64&#x9;미생물단백질 → 대사단백질 전환계수&#x9;단백질 공급량 계산&lt;br/&gt;&lt;br&gt;q_RUP_MP&#x9;0.80&#x9;소화불가능단백질 → 대사단백질 전환계수&#x9;단백질 공급량 계산&lt;br/&gt;&lt;br&gt;milk_cp_tp&#x9;0.951&#x9;유조단백질 → 유진단백질 변환계수&#x9;NASEM 2024 모델&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;기타 상수값&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;상수명&#x9;값&#x9;설명&#x9;사용처&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;month.day&#x9;30.4&#x9;월 평균 일수&#x9;일수 계산&lt;br/&gt;&lt;br&gt;pregnancy.day&#x9;283&#x9;평균 임신기간 (일)&#x9;임신 관련 계산&lt;br/&gt;&lt;br&gt;ref_shrunk_bw&#x9;478&#x9;참조 표준체중 (kg)&#x9;체중 변환&lt;/div&gt;" link="1. 변환 계수 (Coefficients)&#xa;체중, 단백질, 에너지 변환에 사용되는 고정 계수값들&#xa;체중 변환 계수&#xa;상수명&#x9;값&#x9;설명&#x9;사용처&#xa;q_FBW_SBW&#x9;0.96&#x9;실제체중 → 표준체중 변환계수&#x9;체중 변환 계산&#xa;q_SBW_EBW&#x9;0.891&#x9;표준체중 → 빈체중 변환계수&#x9;체중 변환 계산&#xa;q_ADG_SWG&#x9;1&#x9;일평균증체량 → 표준체중증체량&#x9;성장 계산&#xa;q_SWG_EWG&#x9;0.956&#x9;표준체중증체량 → 빈체중증체량&#x9;성장 계산&#xa;단백질 변환 계수&#xa;상수명&#x9;값&#x9;설명&#x9;사용처&#xa;q_MCP_MP&#x9;0.64&#x9;미생물단백질 → 대사단백질 전환계수&#x9;단백질 공급량 계산&#xa;q_RUP_MP&#x9;0.80&#x9;소화불가능단백질 → 대사단백질 전환계수&#x9;단백질 공급량 계산&#xa;milk_cp_tp&#x9;0.951&#x9;유조단백질 → 유진단백질 변환계수&#x9;NASEM 2024 모델&#xa;기타 상수값&#xa;상수명&#x9;값&#x9;설명&#x9;사용처&#xa;month.day&#x9;30.4&#x9;월 평균 일수&#x9;일수 계산&#xa;pregnancy.day&#x9;283&#x9;평균 임신기간 (일)&#x9;임신 관련 계산&#xa;ref_shrunk_bw&#x9;478&#x9;참조 표준체중 (kg)&#x9;체중 변환" id="2PLSoOHjRMfkNwMJFCkK-198">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-2440" y="-3260" width="437" height="660" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="2. 참조값 (Reference Values)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;2024년 검정우 평균값을 기반으로 한 참조 데이터&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;참조값명&#x9;값&#x9;설명&#x9;출처&lt;br&gt;&lt;br&gt;age_at_first_calving&#x9;26.8&#x9;첫 분만 연령 (개월)&#x9;2023년 검정우 평균&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ci.month&#x9;14.7&#x9;분만간격 (개월)&#x9;2024년 검정우 평균&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;rha_KDIA&#x9;10159&#x9;305일 유량 (kg)&#x9;2024년 검정우 평균&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ref_milk_yield.kg&#x9;33.3&#x9;일평균 유량 (kg/day)&#x9;rha_KDIA/305&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ref_milk_fat.p&#x9;4.02&#x9;유지방 함량 (%)&#x9;2024년 검정우 평균&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ref_milk_cp.p&#x9;3.22&#x9;유조단백질 함량 (%)&#x9;2024년 검정우 평균&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ref_milk_tp.p&#x9;3.06&#x9;유진단백질 함량 (%)&#x9;ref_milk_cp.p × milk_cp_tp&lt;/div&gt;" link="2. 참조값 (Reference Values)&#xa;2024년 검정우 평균값을 기반으로 한 참조 데이터&#xa;참조값명&#x9;값&#x9;설명&#x9;출처&#xa;age_at_first_calving&#x9;26.8&#x9;첫 분만 연령 (개월)&#x9;2023년 검정우 평균&#xa;ci.month&#x9;14.7&#x9;분만간격 (개월)&#x9;2024년 검정우 평균&#xa;rha_KDIA&#x9;10159&#x9;305일 유량 (kg)&#x9;2024년 검정우 평균&#xa;ref_milk_yield.kg&#x9;33.3&#x9;일평균 유량 (kg/day)&#x9;rha_KDIA/305&#xa;ref_milk_fat.p&#x9;4.02&#x9;유지방 함량 (%)&#x9;2024년 검정우 평균&#xa;ref_milk_cp.p&#x9;3.22&#x9;유조단백질 함량 (%)&#x9;2024년 검정우 평균&#xa;ref_milk_tp.p&#x9;3.06&#x9;유진단백질 함량 (%)&#x9;ref_milk_cp.p × milk_cp_tp" id="2PLSoOHjRMfkNwMJFCkK-199">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-1992" y="-3260" width="380" height="340" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-200" value="3. 품종별 데이터베이스&lt;div&gt;&lt;br&gt;한우, 홀스타인 등 품종별 특성 데이터&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;성숙 체중 (Mature Body Weight)&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;품종&#x9;성숙 체중 (kg)&#x9;설명&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;한우 암소&#x9;474&#x9;한우 성숙 암소 평균 체중&lt;/div&gt;&lt;div&gt;한우 수소&#x9;700&#x9;한우 성숙 수소 평균 체중&lt;br&gt;홀스타인 암소&#x9;700&#x9;홀스타인 성숙 암소 평균 체중&lt;br&gt;홀스타인 수소&#x9;800&#x9;홀스타인 성숙 수소 평균 체중&lt;br&gt;송아지 출생 체중 (Calf Birth Weight)&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;품종&#x9;출생 체중 (kg)&#x9;설명&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;한우&#x9;26&#x9;한우 송아지 평균 출생 체중&lt;br&gt;홀스타인&#x9;43&#x9;홀스타인 송아지 평균 출생 체중&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;단식열생산 계수 (Fasting Heat Production)&lt;br&gt;# 품종별 생리단계별 FHP 계수 (Fox et al., 2004 기반) fhp_breed_table &amp;lt;- list( &quot;hanwoo&quot; = c( &quot;calf&quot; = 0.07, # 송아지 &quot;growing&quot; = 0.07, # 성장기 &quot;fattening&quot; = 0.07, # 비육기 &quot;lactating&quot; = 0.084, # 착유기 (20% 증가) &quot;drying&quot; = 0.07 # 건유기 ), &quot;holstein&quot; = c( &quot;calf&quot; = 0.078, &quot;growing&quot; = 0.078, &quot;fattening&quot; = 0.078, &quot;lactating&quot; = 0.073, &quot;drying&quot; = 0.078 ) )&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;목표 프레임 (Target Frame)&lt;br&gt;# 품종별 목표 프레임 (성숙도 비율) target_frame &amp;lt;- list( &quot;hanwoo&quot; = c(0.6, 0.8, 0.92, 0.96, 1), # 60%, 80%, 92%, 96%, 100% &quot;holstein&quot; = c(0.55, 0.82, 0.92, 1, 1) # 55%, 82%, 92%, 100%, 100% )&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1618" y="-3250" width="560" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-202" value="4. 생리단계별 데이터베이스&#xa;생리단계별 평균 체중 및 특성&#xa;생리단계별 평균 체중&#xa;생리단계&#x9;평균 체중 (kg)&#x9;설명&#xa;송아지 (Calf)&#x9;75&#x9;신생 송아지 평균 체중&#xa;성장기 (Growing)&#x9;374&#x9;성장기 평균 체중&#xa;비육기 (Fattening)&#x9;500&#x9;비육기 평균 체중&#xa;착유기 (Lactating)&#x9;700&#x9;착유기 평균 체중&#xa;건유기 (Drying)&#x9;700&#x9;건유기 평균 체중" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="-3250" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-206" value="5. 활동 관련 데이터베이스&#xa;활동 수준별 에너지 소모 관련 데이터&#xa;활동 코드 테이블&#xa;활동 수준&#x9;서있기 시간 (hr)&#x9;자세변화 (회)&#x9;평지이동 (m)&#x9;경사이동 (m)&#xa;수준 1&#x9;12&#x9;6&#x9;0&#x9;0&#xa;수준 2&#x9;12&#x9;9&#x9;500&#x9;1&#xa;수준 3&#x9;15&#x9;9&#x9;1000&#x9;1&#xa;수준 4&#x9;15&#x9;9&#x9;1500&#x9;1&#xa;수준 5&#x9;15&#x9;9&#x9;1500&#x9;1" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-3249" width="370" height="150" as="geometry" />
+        </mxCell>
+        <UserObject label="6. 사료 라이브러리 데이터베이스&#xa;사료별 영양소 함량 및 특성 데이터&#xa;사료 라이브러리 구조&#xa;# CNUCNM 사료 라이브러리 버전별 구조 # Version 2: 102개 변수 # Version 3: 113개 변수 (최신) # 주요 변수 그룹: 1. 기본 정보: AF, feed_no, feed_name, feed_class, price 2. 영양소 함량: dm.p.af, cp.p.dm, ndf.p.dm, ee.p.dm, ash.p.dm 3. 탄수화물 분획: cho_a.p.hr, cho_b1.p.hr, cho_b2.p.hr, cho_b3.p.hr, cho_c.p.hr 4. 단백질 분획: p_a.p.hr, p_b1.p.hr, p_b2.p.hr, p_b3.p.hr, p_c.p.hr 5. 에너지: tdn.p.dm, me.mcal.kg, nem.mcal.kg, neg.mcal.kg, nel.mcal.kg 6. 미네랄: ca.p.dm, p.p.dm, mg.p.dm, k.p.dm, na.p.dm, cl.p.dm 7. 비타민: vit_a.1000iu.kg, vit_d.1000iu.kg, vit_e.iu.kg 8. 아미노산: met.p.uip, lys.p.uip, arg.p.uip, thr.p.uip, leu.p.uip&#xa;사료 분류 (Feed Class)&#xa;분류 코드&#x9;분류명&#x9;설명&#x9;예시&#xa;1_forage&#x9;사초류&#x9;건초, 사일리지 등 조사료&#x9;알팔파 건초, 옥수수 사일리지&#xa;2_concentrate&#x9;농후사료&#x9;곡물, 부산물 등 농후사료&#x9;옥수수, 대두박, 밀기울&#xa;3_lipid&#x9;지방류&#x9;유지, 지방산 등&#x9;대두유, 팜유, 지방산&#xa;4_mineral&#x9;미네랄&#x9;무기질 보충제&#x9;석회석, 인산염&#xa;5_vitamin&#x9;비타민&#x9;비타민 보충제&#x9;비타민 A, D, E&#xa;6_amino_acid&#x9;아미노산&#x9;아미노산 보충제&#x9;메티오닌, 라이신&#xa;7_additives&#x9;첨가제&#x9;기타 첨가제&#x9;효모, 유산균&#xa;사료 라이브러리 로딩 함수&#xa;# 사료 라이브러리 로딩 함수 load_FL &amp;lt;- function(feed_library) { dat &amp;lt;- read_csv(file = feed_library) # 사료 분류별로 그룹화 feed_class_name &amp;lt;- list() class_name &amp;lt;- unique(dat$feed_class) for (i in class_name) { dat.sub &amp;lt;- dat %&amp;gt;% filter(feed_class == i) feed_class_name[[i]] &amp;lt;- dat.sub$feed_name } return_list &amp;lt;- list(df = dat, feed_list = feed_class_name) return(return_list) } # 버전 체크 함수 check_FL &amp;lt;- function(feed_data, version) { # Version 2: 102개 변수 # Version 3: 113개 변수 # 변수명 일치 여부 확인 }&#xa;사료별 영양소 계산&#xa;계산 항목&#x9;공식&#x9;설명&#xa;건물량 (DM)&#x9;DM = AF × dm.p.af/100&#x9;사료량 × 건물률&#xa;조단백질 (CP)&#x9;CP = DM × cp.p.dm/100&#x9;건물량 × 조단백질률&#xa;중성세제섬유 (NDF)&#x9;NDF = DM × ndf.p.dm/100&#x9;건물량 × NDF률&#xa;조지방 (EE)&#x9;EE = DM × ee.p.dm/100&#x9;건물량 × 조지방률&#xa;총소화영양분 (TDN)&#x9;TDN = DM × tdn.p.dm/100&#x9;건물량 × TDN률&#xa;사료 라이브러리 특징&#xa;버전 관리: Version 2 (102변수) → Version 3 (113변수)로 발전&#xa;표준화: CNCPS, NASEM 등 국제 표준 기반&#xa;분류 체계: 7개 사료 분류로 체계적 관리&#xa;영양소 정보: 에너지, 단백질, 미네랄, 비타민, 아미노산 포함&#xa;동적 계산: 사료별 영양소 함량을 실시간 계산" link="6. 사료 라이브러리 데이터베이스&#xa;사료별 영양소 함량 및 특성 데이터&#xa;사료 라이브러리 구조&#xa;# CNUCNM 사료 라이브러리 버전별 구조 # Version 2: 102개 변수 # Version 3: 113개 변수 (최신) # 주요 변수 그룹: 1. 기본 정보: AF, feed_no, feed_name, feed_class, price 2. 영양소 함량: dm.p.af, cp.p.dm, ndf.p.dm, ee.p.dm, ash.p.dm 3. 탄수화물 분획: cho_a.p.hr, cho_b1.p.hr, cho_b2.p.hr, cho_b3.p.hr, cho_c.p.hr 4. 단백질 분획: p_a.p.hr, p_b1.p.hr, p_b2.p.hr, p_b3.p.hr, p_c.p.hr 5. 에너지: tdn.p.dm, me.mcal.kg, nem.mcal.kg, neg.mcal.kg, nel.mcal.kg 6. 미네랄: ca.p.dm, p.p.dm, mg.p.dm, k.p.dm, na.p.dm, cl.p.dm 7. 비타민: vit_a.1000iu.kg, vit_d.1000iu.kg, vit_e.iu.kg 8. 아미노산: met.p.uip, lys.p.uip, arg.p.uip, thr.p.uip, leu.p.uip&#xa;사료 분류 (Feed Class)&#xa;분류 코드&#x9;분류명&#x9;설명&#x9;예시&#xa;1_forage&#x9;사초류&#x9;건초, 사일리지 등 조사료&#x9;알팔파 건초, 옥수수 사일리지&#xa;2_concentrate&#x9;농후사료&#x9;곡물, 부산물 등 농후사료&#x9;옥수수, 대두박, 밀기울&#xa;3_lipid&#x9;지방류&#x9;유지, 지방산 등&#x9;대두유, 팜유, 지방산&#xa;4_mineral&#x9;미네랄&#x9;무기질 보충제&#x9;석회석, 인산염&#xa;5_vitamin&#x9;비타민&#x9;비타민 보충제&#x9;비타민 A, D, E&#xa;6_amino_acid&#x9;아미노산&#x9;아미노산 보충제&#x9;메티오닌, 라이신&#xa;7_additives&#x9;첨가제&#x9;기타 첨가제&#x9;효모, 유산균&#xa;사료 라이브러리 로딩 함수&#xa;# 사료 라이브러리 로딩 함수 load_FL &amp;lt;- function(feed_library) { dat &amp;lt;- read_csv(file = feed_library) # 사료 분류별로 그룹화 feed_class_name &amp;lt;- list() class_name &amp;lt;- unique(dat$feed_class) for (i in class_name) { dat.sub &amp;lt;- dat %&amp;gt;% filter(feed_class == i) feed_class_name[[i]] &amp;lt;- dat.sub$feed_name } return_list &amp;lt;- list(df = dat, feed_list = feed_class_name) return(return_list) } # 버전 체크 함수 check_FL &amp;lt;- function(feed_data, version) { # Version 2: 102개 변수 # Version 3: 113개 변수 # 변수명 일치 여부 확인 }&#xa;사료별 영양소 계산&#xa;계산 항목&#x9;공식&#x9;설명&#xa;건물량 (DM)&#x9;DM = AF × dm.p.af/100&#x9;사료량 × 건물률&#xa;조단백질 (CP)&#x9;CP = DM × cp.p.dm/100&#x9;건물량 × 조단백질률&#xa;중성세제섬유 (NDF)&#x9;NDF = DM × ndf.p.dm/100&#x9;건물량 × NDF률&#xa;조지방 (EE)&#x9;EE = DM × ee.p.dm/100&#x9;건물량 × 조지방률&#xa;총소화영양분 (TDN)&#x9;TDN = DM × tdn.p.dm/100&#x9;건물량 × TDN률&#xa;사료 라이브러리 특징&#xa;버전 관리: Version 2 (102변수) → Version 3 (113변수)로 발전&#xa;표준화: CNCPS, NASEM 등 국제 표준 기반&#xa;분류 체계: 7개 사료 분류로 체계적 관리&#xa;영양소 정보: 에너지, 단백질, 미네랄, 비타민, 아미노산 포함&#xa;동적 계산: 사료별 영양소 함량을 실시간 계산" id="2PLSoOHjRMfkNwMJFCkK-208">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-370" y="-3240" width="560" height="580" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2PLSoOHjRMfkNwMJFCkK-210" value="7. 계산식 상수값&#xa;에너지, 단백질 계산식에서 사용되는 상수값들&#xa;에너지 계산 상수&#xa;상수명&#x9;값&#x9;설명&#x9;사용 계산식&#xa;GE 계수&#x9;9.4, 5.65, 4.2&#x9;지방, 단백질, 탄수화물 에너지 계수&#x9;GE_basic()&#xa;TDN→DE 계수&#x9;0.04409&#x9;TDN을 DE로 변환하는 계수&#x9;TDN_to_DE_CNCPS_L1()&#xa;kp_forage&#x9;3.9&#x9;사초류 단백질 분해율 (%/hr)&#x9;RUP 계산&#xa;kp_conc&#x9;5.3&#x9;농후사료 단백질 분해율 (%/hr)&#x9;RUP 계산" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-3244" width="450" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
